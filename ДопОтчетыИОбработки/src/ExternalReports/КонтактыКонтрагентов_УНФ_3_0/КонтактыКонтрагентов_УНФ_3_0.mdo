@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalReport xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8b8571f4-ece4-46ff-9d19-470ebccf60ce">
+  <producedTypes>
+    <objectType typeId="b8a14e71-3a52-42a8-a1b8-6036c265fa1e" valueTypeId="d3d69416-94b4-49fe-b33c-f8576560d662"/>
+  </producedTypes>
+  <name>КонтактыКонтрагентов_УНФ_3_0</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контакты контрагентов УНФ 3.0</value>
+  </synonym>
+  <containedObjects classId="e41aff26-25cf-4bb6-b6c1-3f478a75f374" objectId="dd075a08-0198-4a6f-906f-b9158a919a54"/>
+  <mainDataCompositionSchema>ExternalReport.КонтактыКонтрагентов_УНФ_3_0.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="7759c2bc-377f-4008-b89a-0f76092619d9">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:ExternalReport>

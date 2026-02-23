@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3a313dae-a2e9-4f69-8500-3116e4ecc0f6">
+  <producedTypes>
+    <objectType typeId="d207af9b-5dd8-4c05-a41b-e840d07ad38d" valueTypeId="65435d1c-6720-46c9-acce-fb0736f1eca8"/>
+  </producedTypes>
+  <name>ЗаказПокупателя_ГарантийноеПисьмо_OpenOfficeXML_УНФ_3_0</name>
+  <synonym>
+    <key>ru</key>
+    <value>Гарантийное письмо (Open Office XML) УНФ 3.0</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="6789acea-2458-457a-885b-ca67f087a08a"/>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <templates uuid="4079e4ab-1132-406a-95ae-0fb89312e962">
+    <name>ПФ_DOC_ДемоОфисныйДокумент</name>
+    <synonym>
+      <key>ru</key>
+      <value>П ф DOC демо офисный документ</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="fb57d5ab-3def-4f13-acce-d9cd1e83ed5a">
+    <name>ПФ_DOC_ГарантийноеПисьмо</name>
+    <synonym>
+      <key>ru</key>
+      <value> Гарантийное письмо (DOC)</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>

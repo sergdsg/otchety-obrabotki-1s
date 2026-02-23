@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalReport xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="63305a39-1c0e-46f1-8a86-0500eb27d0d7">
+  <producedTypes>
+    <objectType typeId="5a42db5c-72d6-4913-816c-f97bdf8ce8ca" valueTypeId="adee51c9-9b68-43f2-a8ea-c59176d6292f"/>
+  </producedTypes>
+  <name>ПрайсЛистСКартинками_УНФ_3_0</name>
+  <synonym>
+    <key>ru</key>
+    <value>Прайс лист с картинками УНФ 3.0</value>
+  </synonym>
+  <containedObjects classId="e41aff26-25cf-4bb6-b6c1-3f478a75f374" objectId="52790581-4a7f-4871-b9e9-7f1133aebf06"/>
+  <mainDataCompositionSchema>ExternalReport.ПрайсЛистСКартинками_УНФ_3_0.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="14b39d02-b28a-4f9b-8a63-32fa7911d9b5">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:ExternalReport>

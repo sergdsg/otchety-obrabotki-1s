@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c82f6382-4813-492b-a565-a7d11ddb9fdb">
+  <producedTypes>
+    <objectType typeId="3071c6be-58a9-40dd-a231-afc82db94904" valueTypeId="953f46e2-dd73-43ce-9dae-87bd0a6e31aa"/>
+  </producedTypes>
+  <name>ЗаказКлиента_ГарантийноеПисьмо_УНФ_3_0</name>
+  <synonym>
+    <key>ru</key>
+    <value>Гарантийное письмо УНФ 3.0</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="cd25b2ef-ff7d-4ecb-809b-74ca4fcdcb0c"/>
+  <defaultForm>ExternalDataProcessor.ЗаказКлиента_ГарантийноеПисьмо_УНФ_3_0.Form.ФормаУдалитьПослеОтладки</defaultForm>
+  <forms uuid="46a7e477-7242-40ab-927b-bb0b4c1df512">
+    <name>ФормаУдалитьПослеОтладки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма удалить после отладки</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="85836ba4-d3ae-44c4-a22a-1872e6e12bdc">
+    <name>ПФ_MXL_ГарантийноеПисьмо</name>
+    <synonym>
+      <key>ru</key>
+      <value>Гарантийное письмо</value>
+    </synonym>
+  </templates>
+</mdclass:ExternalDataProcessor>
